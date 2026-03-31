@@ -121,6 +121,7 @@ export const OtherActivities = ({
                 <TableRow>
                   <TableCell></TableCell>
                   <TableCell>Activity</TableCell>
+                  <TableCell></TableCell>
                   <TableCell>Time</TableCell>
                 </TableRow>
               </TableHead>

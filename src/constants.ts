@@ -223,13 +223,13 @@ export const IDEAL_EVENT_ORDERING: Array<EventId> = [
 ];
 
 export const ACTIVITIES = [
+  "doorsOpen",
+  "doorsClose",
   "registration",
   "checkin",
   "tutorial",
   "lunch",
   "awards",
-  "doorsOpen",
-  "doorsClose",
 ] as const;
 
 export const ACTIVITY_NAMES = {
